@@ -32,3 +32,7 @@ Frontend Developer from Yerevan 🇦🇲
 - Budget
 
 🚀 Open to frontend opportunities
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/IlyaDuzhakov/IlyaDuzhakov/blob/output/github-contribution-grid-snake.svg)

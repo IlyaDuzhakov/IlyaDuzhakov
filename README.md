@@ -9,13 +9,14 @@ Frontend Developer from Yerevan 🇦🇲
 - 🌍 Creating interactive web applications
 
 ## 🛠️ Tech Stack
-- JavaScript
-- React
-- Webpack
-- HTML
-- CSS
-- Jest
-- GitHub Actions
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Webpack](https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
 
 ## 🔗 Links
 - 🌐 Website: https://ilyaduzhakov.ru

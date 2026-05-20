@@ -1,4 +1,5 @@
 # Hi, I'm Ilya 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Chess+Coach;Building+Interactive+Web+Apps)](https://git.io/typing-svg)
 
 Frontend Developer from Yerevan 🇦🇲
 

@@ -30,7 +30,7 @@ Frontend Developer from Yerevan 🇦🇲
 - Chess Coach
 - Blog Noemi
 - DnD Board 
-- Budget
+- Global Timeboard
 
 🚀 Open to frontend opportunities
 
